@@ -27,7 +27,7 @@ repository               : "JasperDeLaat94/jasperdelaat-com" # GitHub username/r
 teaser                   : "/assets/images/default-teaser.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo-64.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -101,7 +101,7 @@ analytics:
 author:
   name             : "Jasper de Laat"
   avatar           : "/assets/images/avatar-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Game Programmer, likes to tinker on servers and cars."
+  bio              : "Game Programmer, likes to tinker on servers as well."
   location         : "Boxtel, Netherlands"
   email            :
   links:
@@ -286,3 +286,24 @@ defaults:
       share: true
       related: true
       show_date: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      share: true
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
