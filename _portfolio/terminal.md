@@ -1,15 +1,17 @@
 ---
 title: "Term1nal"
-date: "2017-06-01"
-excerpt: "Gameplay programmer, Mobile VR"
+date: "2021-06-18"
+excerpt: "Gameplay programmer, Mobile VR - Unity, C#"
 header: 
   image: /assets/images/portfolio/terminal-header.png
   teaser: /assets/images/portfolio/terminal-teaser.png
 sidebar:
   - title: "Role"
     text: "Junior Programmer - Gameplay & Performance"
-  - title: "Date"
-    text: "2016 - May 2017"
+  - title: "Period"
+    text: "Early 2016 - Early 2017"
+  - title: "Released"
+    text: "May 2017"
   - title: "Platforms"
     text: "Samsung Gear VR"
   - title: "Technologies"
@@ -48,14 +50,12 @@ gallery:
     alt: "An image showing the player character with a chair, which plays a role in the game's story."
     title: "An image showing the player character with a chair, which plays a role in the game's story."
 ---
-
 > Term1nal is one of the first full-blown action puzzler games for mobile VR.
 
 **Term1nal** is a 3D action puzzle game for the Samsung Gear VR that I worked on as a **gameplay programmer** for Force Field Entertainment.
 It received favourable [reviews](https://www.vrfocus.com/2017/05/review-term1nal/).
 
-## Contributions
-Key contributions included:
+## Contributions included
 - Collaborating with designers on puzzle design, then take care of the technical implementation.
 - Design and implement a comprehensive trigger/interaction system so designers can easily link together puzzles, switches and doors and other gameplay elements inside a level.
 - Measure and resolve performance issues on Gear VR devices (Samsung Galaxy S6, S7, S8, both Exynos and Snapdragon-based) to ensure a constant 60Hz experience and avoid overheating.
