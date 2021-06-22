@@ -1,7 +1,8 @@
 ---
 title: "Term1nal"
-date: "2021-06-18"
-excerpt: "Gameplay programmer, Mobile VR - Unity, C#"
+date: 2017-05-01
+last_modified_at: 2021-06-18
+excerpt: "Gameplay Programmer, Mobile VR - Unity, C#"
 header: 
   image: /assets/images/portfolio/terminal-header.png
   teaser: /assets/images/portfolio/terminal-teaser.png

@@ -1,7 +1,8 @@
 ---
 title: "Space Flight: Orbital Emergency"
-date: "2021-06-21"
-excerpt: "Support programmer, Desktop VR - Unity, C#"
+date: 2016-06-01
+last_modified_at: 2021-06-21
+excerpt: "Support Programmer, Desktop VR - Unity, C#"
 header: 
   image: /assets/images/portfolio/spaceflight-header.png
   teaser: /assets/images/portfolio/spaceflight-teaser.png
