@@ -1,6 +1,6 @@
 ---
 title: "Heroes Battle"
-date: 2020-12-01
+date: 2020-06-01
 last_modified_at: 2021-06-23
 excerpt: "Gameplay Programmer, Mobile - Unity, C#"
 header: 
